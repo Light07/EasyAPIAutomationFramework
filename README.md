@@ -36,12 +36,13 @@ Author: kevin cai (kevin.cai@outlook.com)
 
 
  **Answers **:
-1. This is a very simple framework only developed to address the question, it only show part of my skills not all of my capabilities.
-2.I didn't write all of the test cases need to be done, because i think the most important thing is how you think when u face a technology problems.
-3.On root folder of this project, there is a excel file, within it, list all of the test cases need to be done.
-4.I may write some codes to make the test cases data-driven, so user only need to configure the excel file to execute multiple test cases, this is one thing i didn't do.
-5.For CI, check the file test_config under settings folder. you only need to configure jenkins like below:
+* 1. This is a very simple framework only developed to address the question, it only show part of my skills not all of my capabilities.
+* 2.I didn't write all of the test cases need to be done, because i think the most important thing is how you think when u face a technology problems.
+* 3.On root folder of this project, there is a excel file, within it, list all of the test cases need to be done.
+* 4.I may write some codes to make the test cases data-driven, so user only need to configure the excel file to execute multiple test cases, this is one thing i didn't do.
+* 5.For CI, check the file test_config under settings folder. you only need to configure jenkins like below:
 cd "%WORKSPACE%\settings
 python test_config.py" %TEST_ENV%   #TEST_ENV is the choice parameter you configured in jenkins.
-6. For bug founding, i didn't list it, but you will have it after all of the cases are executed, you can open the html report for details.
-# airplay
+* 6. For bug founding, i didn't list it, but you will have it after all of the cases are executed, you can open the html report for details.
+
+###airplay for fun
