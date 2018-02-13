@@ -41,8 +41,8 @@ Author: kevin cai
 * On root folder of this project, there is a excel file, within it, list all of the test cases need to be done.
 * I may write some codes to make the test cases data-driven, so user only need to configure the excel file to execute multiple test cases, this is one thing i didn't do.
 * For CI, check the file test_config under settings folder. you only need to configure jenkins like below:
- ** cd "%WORKSPACE%\settings
- ** python test_config.py" %TEST_ENV%   #TEST_ENV is the choice parameter you configured in jenkins.
+ * cd "%WORKSPACE%\settings
+ * python test_config.py" %TEST_ENV%   #TEST_ENV is the choice parameter you configured in jenkins.
 * 6. For bug founding, i didn't list it, but you will have it after all of the cases are executed, you can open the html report for details.
 
-** airplay **
+### airplay 
