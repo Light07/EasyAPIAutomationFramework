@@ -44,3 +44,4 @@ Author: kevin cai (kevin.cai@outlook.com)
 cd "%WORKSPACE%\settings
 python test_config.py" %TEST_ENV%   #TEST_ENV is the choice parameter you configured in jenkins.
 6. For bug founding, i didn't list it, but you will have it after all of the cases are executed, you can open the html report for details.
+# airplay
