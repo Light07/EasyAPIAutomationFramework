@@ -1,5 +1,5 @@
 #02/13/2018
-Author: kevin cai (kevin.cai@outlook.com)
+Author: kevin cai
 # Generic APIFrameWork
 ### How to use:
 
